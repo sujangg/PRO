@@ -1,3 +1,2 @@
-# HTML
 *Assignments
 *Projects
